@@ -15,3 +15,4 @@ or contact me to analyze a point in relation to it with me. Maybe case i share o
 * **Laws of cloud: Experiment with S3 Object lambda**: Talk about resize and formatting stored image in S3 using S3 object lambda in python.
   * Youtube: https://www.youtube.com/watch?v=n_I4gzjy6nE&t=96s
   * Medium: https://medium.com/cloud-service-and-post/procesando-im%C3%A1genes-usando-s3-object-lambda-5642ab7e46a7
+  * Code: `experiment_with_s3_object_lambda` folder
