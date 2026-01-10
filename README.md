@@ -21,14 +21,14 @@ or contact me to analyze a point in relation to it with me. Maybe case i share o
   * Code: `2021/experiment_with_s3_object_lambda` folder
   * Publish Date: 26 March 2021
 ### 2025
-* **AWS User Group Arequipa Meetup #1: Principios de arquitectura e ingeniería de datos**: General Guide to understand how you can apply some the data architecture principles in the AWS context to builde architecture and solution.
-  * Youtube: 
+* **AWS User Group Arequipa Meetup #1: Principios de arquitectura e ingeniería de datos**: General Guide to understand how you can apply some the data architecture principles in the AWS context to build architecture and solution.
+  * Youtube: https://www.youtube.com/watch?v=4mHwmg1Regw&t=1796s
   * Presentation: `2025/Principios de arquitectura e ingeniería de datos` folder
   * Publish Date: 30 April 2025
-* **AWS Community Day Colombia 2025: La automatización está impulsando el declive de las tareas banales y repetitivas**: General Guide to start with agent inside your data pipeline.
-  * Youtube: 
-  * Presentation: `2025/La automatización está impulsando el declive de las tareas banales y repetitivas` folder
+* **AWS Community Day Colombia 2025: Agregando agentes a tu data pipeline robusteciendo : el proceso**: General Guide to use with agent inside your data pipeline with PoC point.
+  * Youtube: https://youtu.be/wx5ZFxoxmus
+  * Presentation: `2025/Agregando agentes a tu data pipeline robusteciendo - el proceso` folder
   * Publish Date: 28 June 2025
-* **AWS Student Community Day Peru: Entornos de datos más serverless: una guia general**: General Guide to understand ; from technical strategy perspective; how build a serverless data architecture and what you require to do.
-  * Presentation: `2025/Entornos de datos más serverless -- una guia general` folder
+* **AWS Student Community Day Peru: Entornos de datos mas serverless : una guia general**: General Guide to understand ; from technical strategy perspective; how build a serverless data architecture and what you require to do in AWS Context.
+  * Presentation: `2025/Entornos de datos mas serverless - una guia general` folder
   * Publish Date: 13 December 2025
