@@ -32,3 +32,10 @@ or contact me to analyze a point in relation to it with me. Maybe case i share o
 * **AWS Student Community Day Peru: Entornos de datos mas serverless : una guia general**: General Guide to understand ; from technical strategy perspective; how build a serverless data architecture and what you require to do in AWS Context.
   * Presentation: `2025/Entornos de datos mas serverless - una guia general` folder
   * Publish Date: 13 December 2025
+
+### 2026
+* **AWS User Group Arequipa Meetup #5: Implementando patrones de calidad de datos en AWS**: Technical solution guide about how start to implement a data quality solution based in AWS data pipelines.
+  * Youtube: 
+  * Technical Post: 
+  * Presentation: `2026/Implementando patrones de calidad de datos en AWS` folder
+  * Publish Date: 15 January 2026
