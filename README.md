@@ -14,28 +14,33 @@ or contact me to analyze a point in relation to it with me. Maybe case i share o
   * Youtube: https://www.youtube.com/watch?v=nf_BdOoHIRY&t=834s
   * Medium: https://medium.com/cloud-service-and-post/crea-una-api-con-api-http-y-lambda-m%C3%A9todo-post-e710bf303afe
   * Publish Date: 20 November 2020
+  * Language: Spanish
 ### 2021
 * **Laws of cloud: Experiment with S3 Object lambda**: Talk about resize and formatting stored image in S3 using S3 object lambda in python.
   * Youtube: https://www.youtube.com/watch?v=n_I4gzjy6nE&t=96s
   * Medium: https://medium.com/cloud-service-and-post/procesando-im%C3%A1genes-usando-s3-object-lambda-5642ab7e46a7
   * Code: `2021/experiment_with_s3_object_lambda` folder
   * Publish Date: 26 March 2021
+  * Language: Spanish
 ### 2025
 * **AWS User Group Arequipa Meetup #1: Principios de arquitectura e ingeniería de datos**: General Guide to understand how you can apply some the data architecture principles in the AWS context to build architecture and solution.
   * Youtube: https://www.youtube.com/watch?v=4mHwmg1Regw&t=1796s
   * Presentation: `2025/Principios de arquitectura e ingeniería de datos` folder
   * Publish Date: 30 April 2025
+  * Language: Spanish
 * **AWS Community Day Colombia 2025: Agregando agentes a tu data pipeline robusteciendo : el proceso**: General Guide to use with agent inside your data pipeline with PoC point.
   * Youtube: https://youtu.be/wx5ZFxoxmus
   * Presentation: `2025/Agregando agentes a tu data pipeline robusteciendo - el proceso` folder
   * Publish Date: 28 June 2025
+  * Language: Spanish
 * **AWS Student Community Day Peru: Entornos de datos mas serverless : una guia general**: General Guide to understand ; from technical strategy perspective; how build a serverless data architecture and what you require to do in AWS Context.
   * Presentation: `2025/Entornos de datos mas serverless - una guia general` folder
   * Publish Date: 13 December 2025
-
+  * Language: Spanish
 ### 2026
 * **AWS User Group Arequipa Meetup #5: Implementando patrones de calidad de datos en AWS**: Technical solution guide about how start to implement a data quality solution based in AWS data pipelines.
   * Youtube: 
   * Technical Post: 
   * Presentation: `2026/Implementando patrones de calidad de datos en AWS` folder
   * Publish Date: 15 January 2026
+  * Language: Spanish
