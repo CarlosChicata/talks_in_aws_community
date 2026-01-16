@@ -39,7 +39,7 @@ or contact me to analyze a point in relation to it with me. Maybe case i share o
   * Language: Spanish
 ### 2026
 * **AWS User Group Arequipa Meetup #5: Implementando patrones de calidad de datos en AWS**: Technical solution guide about how start to implement a data quality solution based in AWS data pipelines.
-  * Youtube: 
+  * Youtube: https://www.youtube.com/live/i914rzeD6lg?t=220s
   * Technical Post: 
   * Presentation: `2026/Implementando patrones de calidad de datos en AWS` folder
   * Publish Date: 15 January 2026
