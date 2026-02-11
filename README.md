@@ -25,29 +25,29 @@ or contact me to analyze a point in relation to it with me. Maybe case i share o
 ### 2025
 * **AWS User Group Arequipa Meetup #1: Principios de arquitectura e ingeniería de datos**: General Guide to understand how you can apply some the data architecture principles in the AWS context to build architecture and solution.
   * Youtube: https://www.youtube.com/watch?v=4mHwmg1Regw&t=1796s
-  * Presentation: `2025/Principios de arquitectura e ingeniería de datos` folder
+  * Presentation: `2025/Principios de arquitectura e ingeniería de datos` 
   * Publish Date: 30 April 2025
   * Language: Spanish
 * **AWS Community Day Colombia 2025: Agregando agentes a tu data pipeline robusteciendo : el proceso**: General Guide to use with agent inside your data pipeline with PoC point.
   * Youtube: https://youtu.be/wx5ZFxoxmus
-  * Presentation: `2025/Agregando agentes a tu data pipeline robusteciendo - el proceso` folder
+  * Presentation: `2025/Agregando agentes a tu data pipeline robusteciendo - el proceso` 
   * Publish Date: 28 June 2025
   * Language: Spanish
 * **AWS Student Community Day Peru: Entornos de datos mas serverless : una guia general**: General Guide to understand ; from technical strategy perspective; how build a serverless data architecture and what you require to do in AWS Context.
-  * Presentation: `2025/Entornos de datos mas serverless - una guia general` folder
+  * Presentation: `2025/Entornos de datos mas serverless - una guia general` 
   * Publish Date: 13 December 2025
   * Language: Spanish
 ### 2026
 * **AWS User Group Arequipa Meetup #5: Implementando patrones de calidad de datos en AWS**: Technical solution guide about how start to implement a data quality solution based in AWS data pipelines.
   * Youtube: https://www.youtube.com/live/i914rzeD6lg?t=220s
   * Technical Post: https://builder.aws.com/content/38FHhvbpTgp8u2kbHBCHumOR1tK/es-implementando-patrones-de-calidad-de-datos-en-aws-una-guia-tecnica-general
-  * Presentation: `2026/Implementando patrones de calidad de datos en AWS` folder
+  * Presentation: `2026/Implementando patrones de calidad de datos en AWS` 
   * Publish Date: 15 January 2026
   * Language: Spanish
   * Meetup: https://www.meetup.com/aws-user-group-arequipa/events/312679853/
 * **AWS User Group Santa Cruz de la Sierra | Meetup Virtual - Febrero: Implementando patrones de calidad de datos en AWS**: Technical solution guide about how start to implement a data quality solution based in AWS data pipelines.
   * Technical Post: https://builder.aws.com/content/38FHhvbpTgp8u2kbHBCHumOR1tK/es-implementando-patrones-de-calidad-de-datos-en-aws-una-guia-tecnica-general
-  * Presentation: `2026/Implementando patrones de calidad de datos en AWS` folder
+  * Presentation: `2026/Implementando patrones de calidad de datos en AWS - AWS UG SCZ` 
   * Publish Date: 11 Febrery 2026
   * Language: Spanish
   * Meetup: https://www.meetup.com/user-group-santa-cruz/events/313221490/
