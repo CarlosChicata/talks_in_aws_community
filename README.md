@@ -45,10 +45,23 @@ or contact me to analyze a point in relation to it with me. Maybe case i share o
   * Publish Date: 15 January 2026
   * Language: Spanish
   * Meetup: https://www.meetup.com/aws-user-group-arequipa/events/312679853/
-* **AWS User Group Santa Cruz de la Sierra | Meetup Virtual - Febrero: Implementando patrones de calidad de datos en AWS**: Technical solution guide about how start to implement a data quality solution based in AWS data pipelines.
+* **AWS User Group Santa Cruz de la Sierra | Meetup Virtual - Implementando patrones de calidad de datos en AWS**: Technical solution guide about how start to implement a data quality solution based in AWS data pipelines.
   * Youtube: https://www.youtube.com/watch?v=3UnBcLd3UWg&t=241s
   * Technical Post: https://builder.aws.com/content/38FHhvbpTgp8u2kbHBCHumOR1tK/es-implementando-patrones-de-calidad-de-datos-en-aws-una-guia-tecnica-general
   * Presentation: `2026/Implementando patrones de calidad de datos en AWS - AWS UG SCZ` 
   * Publish Date: 11 Febrery 2026
   * Language: Spanish
   * Meetup: https://www.meetup.com/user-group-santa-cruz/events/313221490/
+* **AWS User Tacna | AWS Reloaded 2026: Reactivando la Comunidad Cloud - ¿Que hay de nuevo en AWS en datos en el 2026?**: Understanding what's currently happening across AWS data services to anticipate what we need to learn and be prepared for in 2026..
+  * Youtube: https://www.youtube.com/watch?v=UZPx2LQc1c8&t=488s
+  * Presentation: `2026/¿Qué hay de nuevo en AWS en datos para este 2026?` 
+  * Publish Date: 10 April 2026
+  * Language: Spanish
+  * Meetup: https://www.meetup.com/aws-user-group-tacna/events/313612999/
+* **AWS User Chiclayo | AWS Cloud Pulse: Meetup Virtual - Lecciones 101 de construcción de un data lake: cómo interpretarlos en AWS**: Basic and Fundamental Lessons on How to Build a Data Lake on AWS.
+  * Youtube: https://www.youtube.com/watch?v=ocx3vNoofT4
+  * Technical Post: https://builder.aws.com/content/3BFn7eos91o9U17YXGzPYQuwRPQ/es-lecciones-101-de-construccion-de-un-data-lake-como-interpretarlos-en-aws
+  * Presentation: `2026/Lecciones 101 de construcción de un data lake como interpretarlos en AWS` 
+  * Publish Date: 25 April 2026
+  * Language: Spanish
+  * Meetup: https://www.linkedin.com/posts/aws-user-group-chiclayo_aws-awsugchiclayo-cloudcomputing-activity-7455294359907872768-BtPL?utm_source=share&utm_medium=member_desktop&rcm=ACoAABkAk7UBuBwrnzHkKuLq8ftLnx8Pxm9-CjY
