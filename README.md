@@ -66,6 +66,7 @@ or contact me to analyze a point in relation to it with me. Maybe case i share o
   * Language: Spanish
   * Meetup: https://www.linkedin.com/posts/aws-user-group-chiclayo_aws-awsugchiclayo-cloudcomputing-activity-7455294359907872768-BtPL?utm_source=share&utm_medium=member_desktop&rcm=ACoAABkAk7UBuBwrnzHkKuLq8ftLnx8Pxm9-CjY
 * **AWS Student Builder Group Puce - Quito, Ecuador | Meetup Virtual - Lecciones 101 sobre data platform**: Basic and Fundamental Lessons on How to Build a Data Platform on AWS. it includes a live demo.
+  * Youtube: https://www.youtube.com/watch?v=yQ-3kI85xxw 
   * Presentation: `2026/Lecciones 101 sobre Data Platform.pdf` 
   * Publish Date: 17 july 2026
   * Language: Spanish
