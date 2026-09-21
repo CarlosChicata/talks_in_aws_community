@@ -10,72 +10,72 @@ or contact me to analyze a point in relation to it with me. Maybe case i share o
 
 ## Talk List
 ### 2020
-* **FlashTalk: Lambda with API Gateway**: Talk about to create API using API HTTP Gateway (GET and POST request) and lambda function.
+* **(Perú) FlashTalk: Lambda with API Gateway**: Talk about to create API using API HTTP Gateway (GET and POST request) and lambda function.
   * Youtube: https://www.youtube.com/watch?v=nf_BdOoHIRY&t=834s
   * Medium: https://medium.com/cloud-service-and-post/crea-una-api-con-api-http-y-lambda-m%C3%A9todo-post-e710bf303afe
   * Publish Date: 20 November 2020
   * Language: Spanish
 ### 2021
-* **Laws of cloud: Experiment with S3 Object lambda**: Talk about resize and formatting stored image in S3 using S3 object lambda in python.
+* **(Perú) Laws of cloud: Experiment with S3 Object lambda**: Talk about resize and formatting stored image in S3 using S3 object lambda in python.
   * Youtube: https://www.youtube.com/watch?v=n_I4gzjy6nE&t=96s
   * Medium: https://medium.com/cloud-service-and-post/procesando-im%C3%A1genes-usando-s3-object-lambda-5642ab7e46a7
   * Code: `2021/experiment_with_s3_object_lambda` folder
   * Publish Date: 26 March 2021
   * Language: Spanish
 ### 2025
-* **AWS User Group Arequipa Meetup #1: Principios de arquitectura e ingeniería de datos**: General Guide to understand how you can apply some the data architecture principles in the AWS context to build architecture and solution.
+* **(Perú) AWS User Group Arequipa Meetup #1: Principios de arquitectura e ingeniería de datos**: General Guide to understand how you can apply some the data architecture principles in the AWS context to build architecture and solution.
   * Youtube: https://www.youtube.com/watch?v=4mHwmg1Regw&t=1796s
   * Presentation: `2025/Principios de arquitectura e ingeniería de datos` 
   * Publish Date: 30 April 2025
   * Language: Spanish
-* **AWS Community Day Colombia 2025: Agregando agentes a tu data pipeline robusteciendo : el proceso**: General Guide to use with agent inside your data pipeline with PoC point.
+* **(Colombia) AWS Community Day Colombia 2025: Agregando agentes a tu data pipeline robusteciendo : el proceso**: General Guide to use with agent inside your data pipeline with PoC point.
   * Youtube: https://youtu.be/wx5ZFxoxmus
   * Presentation: `2025/Agregando agentes a tu data pipeline robusteciendo - el proceso` 
   * Publish Date: 28 June 2025
   * Language: Spanish
-* **AWS Student Community Day Peru: Entornos de datos mas serverless : una guia general**: General Guide to understand ; from technical strategy perspective; how build a serverless data architecture and what you require to do in AWS Context.
+* **(Perú) AWS Student Community Day Peru: Entornos de datos mas serverless : una guia general**: General Guide to understand ; from technical strategy perspective; how build a serverless data architecture and what you require to do in AWS Context.
   * Presentation: `2025/Entornos de datos mas serverless - una guia general` 
   * Publish Date: 13 December 2025
   * Language: Spanish
 ### 2026
-* **AWS User Group Arequipa Meetup #5: Implementando patrones de calidad de datos en AWS**: Technical solution guide about how start to implement a data quality solution based in AWS data pipelines.
+* **(Perú) AWS User Group Arequipa Meetup #5: Implementando patrones de calidad de datos en AWS**: Technical solution guide about how start to implement a data quality solution based in AWS data pipelines.
   * Youtube: https://www.youtube.com/live/i914rzeD6lg?t=220s
   * Technical Post: https://builder.aws.com/content/38FHhvbpTgp8u2kbHBCHumOR1tK/es-implementando-patrones-de-calidad-de-datos-en-aws-una-guia-tecnica-general
   * Presentation: `2026/Implementando patrones de calidad de datos en AWS` 
   * Publish Date: 15 January 2026
   * Language: Spanish
   * Meetup: https://www.meetup.com/aws-user-group-arequipa/events/312679853/
-* **AWS User Group Santa Cruz de la Sierra | Meetup Virtual - Implementando patrones de calidad de datos en AWS**: Technical solution guide about how start to implement a data quality solution based in AWS data pipelines.
+* **(Bolivia) AWS User Group Santa Cruz de la Sierra | Meetup Virtual - Implementando patrones de calidad de datos en AWS**: Technical solution guide about how start to implement a data quality solution based in AWS data pipelines.
   * Youtube: https://www.youtube.com/watch?v=3UnBcLd3UWg&t=241s
   * Technical Post: https://builder.aws.com/content/38FHhvbpTgp8u2kbHBCHumOR1tK/es-implementando-patrones-de-calidad-de-datos-en-aws-una-guia-tecnica-general
   * Presentation: `2026/Implementando patrones de calidad de datos en AWS - AWS UG SCZ` 
   * Publish Date: 11 Febrery 2026
   * Language: Spanish
   * Meetup: https://www.meetup.com/user-group-santa-cruz/events/313221490/
-* **AWS User Tacna | AWS Reloaded 2026: Reactivando la Comunidad Cloud - ¿Que hay de nuevo en AWS en datos en el 2026?**: Understanding what's currently happening across AWS data services to anticipate what we need to learn and be prepared for in 2026..
+* **(Perú) AWS User Tacna | AWS Reloaded 2026: Reactivando la Comunidad Cloud - ¿Que hay de nuevo en AWS en datos en el 2026?**: Understanding what's currently happening across AWS data services to anticipate what we need to learn and be prepared for in 2026..
   * Youtube: https://www.youtube.com/watch?v=UZPx2LQc1c8&t=488s
   * Presentation: `2026/¿Qué hay de nuevo en AWS en datos para este 2026?` 
   * Publish Date: 10 April 2026
   * Language: Spanish
   * Meetup: https://www.meetup.com/aws-user-group-tacna/events/313612999/
-* **AWS User Chiclayo | AWS Cloud Pulse: Meetup Virtual - Lecciones 101 de construcción de un data lake: cómo interpretarlos en AWS**: Basic and Fundamental Lessons on How to Build a Data Lake on AWS.
+* **(Perú) AWS User Chiclayo | AWS Cloud Pulse: Meetup Virtual - Lecciones 101 de construcción de un data lake: cómo interpretarlos en AWS**: Basic and Fundamental Lessons on How to Build a Data Lake on AWS.
   * Youtube: https://www.youtube.com/watch?v=ocx3vNoofT4
   * Technical Post: https://builder.aws.com/content/3BFn7eos91o9U17YXGzPYQuwRPQ/es-lecciones-101-de-construccion-de-un-data-lake-como-interpretarlos-en-aws
   * Presentation: `2026/Lecciones 101 de construcción de un data lake como interpretarlos en AWS` 
   * Publish Date: 25 April 2026
   * Language: Spanish
   * Meetup: https://www.linkedin.com/posts/aws-user-group-chiclayo_aws-awsugchiclayo-cloudcomputing-activity-7455294359907872768-BtPL?utm_source=share&utm_medium=member_desktop&rcm=ACoAABkAk7UBuBwrnzHkKuLq8ftLnx8Pxm9-CjY
-* **AWS Student Builder Group Puce - Quito, Ecuador | Meetup Virtual - Lecciones 101 sobre data platform**: Basic and Fundamental Lessons on How to Build a Data Platform on AWS. it includes a live demo.
+* **(Ecuador) AWS Student Builder Group Puce - Quito, Ecuador | Meetup Virtual - Lecciones 101 sobre data platform**: Basic and Fundamental Lessons on How to Build a Data Platform on AWS. it includes a live demo.
   * Youtube: https://www.youtube.com/watch?v=yQ-3kI85xxw 
   * Presentation: `2026/Lecciones 101 sobre Data Platform.pdf` 
   * Publish Date: 17 july 2026
   * Language: Spanish
   * Meetup: https://www.meetup.com/aws-sbg-at-pontifical-catholic-university-of-ecuador/events/315438271/?_xtd=gqFyqTQwMzA3NjYxNKFwo2FwaQ%253D%253D&from=ref 
-* **AWS Community Day Ecuador 2025 | Evento Presencial - AWS Lambda en un Data pipeline: Lecciones aprendidas para armar una solución**: Lessons about how to use AWS Lambda to implement a data pipeline in transforming and ingestiong area.
+* **(Ecuador) AWS Community Day Ecuador 2025 | Evento Presencial - AWS Lambda en un Data pipeline: Lecciones aprendidas para armar una solución**: Lessons about how to use AWS Lambda to implement a data pipeline in transforming and ingestiong area.
   * Presentation: `2026/AWS Lambda en un Data pipeline.pdf` 
   * Publish Date: 05 September 2026
   * Language: Spanish
-* **AWS Community Day Ecuador 2025 | Evento Presencial - Defensa Contra las Artes Oscuras de
+* **(Ecuador) AWS Community Day Ecuador 2025 | Evento Presencial - Defensa Contra las Artes Oscuras de
 los data pipelines: hazlo más robusto**: Understand about what mean resilience to data pipelines, what solutions can you build to make it true, how talk about it with business area and some best practices lessons about it.
   * Presentation: `2026/Defensa de las artes oscuras de los data pipelines - hazlo mas robusto.pdf` 
   * Publish Date: 05 September 2026
