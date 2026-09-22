@@ -71,12 +71,17 @@ or contact me to analyze a point in relation to it with me. Maybe case i share o
   * Publish Date: 17 july 2026
   * Language: Spanish
   * Meetup: https://www.meetup.com/aws-sbg-at-pontifical-catholic-university-of-ecuador/events/315438271/?_xtd=gqFyqTQwMzA3NjYxNKFwo2FwaQ%253D%253D&from=ref 
-* **(Ecuador) AWS Community Day Ecuador 2025 | Evento Presencial - AWS Lambda en un Data pipeline: Lecciones aprendidas para armar una solución**: Lessons about how to use AWS Lambda to implement a data pipeline in transforming and ingestiong area.
+* **(Ecuador) AWS Community Day Ecuador 2026 | Evento Presencial - AWS Lambda en un Data pipeline: Lecciones aprendidas para armar una solución**: Lessons about how to use AWS Lambda to implement a data pipeline in transforming and ingestiong area.
   * Presentation: `2026/AWS Lambda en un Data pipeline.pdf` 
   * Publish Date: 05 September 2026
   * Language: Spanish
-* **(Ecuador) AWS Community Day Ecuador 2025 | Evento Presencial - Defensa Contra las Artes Oscuras de
+* **(Ecuador) AWS Community Day Ecuador 2026 | Evento Presencial - Defensa Contra las Artes Oscuras de
 los data pipelines: hazlo más robusto**: Understand about what mean resilience to data pipelines, what solutions can you build to make it true, how talk about it with business area and some best practices lessons about it.
   * Presentation: `2026/Defensa de las artes oscuras de los data pipelines - hazlo mas robusto.pdf` 
   * Publish Date: 05 September 2026
   * Language: Spanish
+* **(Colombia) Student Builder Group - Universidad del Valle   | Evento Virtual - AWS en un data pipeline: lecciones aprendidas para una solución**: Lessons about how to use AWS Lambda to implement a data pipeline in transforming and ingestiong area.
+  * Presentation: `2026/AWS Lambda en un Data pipeline V2.pdf`
+  * Publish Date: 21 September 2026
+  * Language: Spanish 
+
