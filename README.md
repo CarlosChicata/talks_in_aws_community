@@ -80,8 +80,10 @@ los data pipelines: hazlo más robusto**: Understand about what mean resilience 
   * Presentation: `2026/Defensa de las artes oscuras de los data pipelines - hazlo mas robusto.pdf` 
   * Publish Date: 05 September 2026
   * Language: Spanish
+  * Instagram: https://www.instagram.com/p/DcgxMnzlNQV/?img_index=3
 * **(Colombia) Student Builder Group - Universidad del Valle   | Evento Virtual - AWS en un data pipeline: lecciones aprendidas para una solución**: Lessons about how to use AWS Lambda to implement a data pipeline in transforming and ingestiong area.
   * Presentation: `2026/AWS Lambda en un Data pipeline V2.pdf`
   * Publish Date: 21 September 2026
-  * Language: Spanish 
+  * Language: Spanish
+  * Meetup: https://www.meetup.com/aws-sbg-at-university-of-the-valle/events/316572977/
 
