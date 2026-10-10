@@ -86,9 +86,9 @@ los data pipelines: hazlo más robusto**: Understand about what mean resilience 
   * Publish Date: 21 September 2026
   * Language: Spanish
   * Meetup: https://www.meetup.com/aws-sbg-at-university-of-the-valle/events/316572977/
-* **(Bolivia) Student Builder Group - Universidad del Valle   | Evento Virtual - Defensa Contra las Artes Oscuras de
+* **(Bolivia) AWS Student Community Day Cochabamba 2026 | Evento Virtual - Defensa Contra las Artes Oscuras de
 los data pipelines: hazlo más robusto**: Understand about what mean resilience to data pipelines, what solutions can you build to make it true, how talk about it with business area and some best practices lessons about it.
-  * Presentation: `2026/Defensa de las artes oscuras de los data pipelines V2.pdf`
+  * Presentation: `2026/SCD CBBA - Defensa Contra las artes oscuras de los data pipelines.pdf`
   * Publish Date: 10 October 2026
   * Language: Spanish
   * Meetup: https://www.meetup.com/aws-sbg-at-bolivian-private-university-cochabamba/events/316380312/
