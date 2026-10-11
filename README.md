@@ -92,5 +92,5 @@ los data pipelines: hazlo más robusto**: Understand about what mean resilience 
   * Publish Date: 10 October 2026
   * Language: Spanish
   * Meetup: https://www.meetup.com/aws-sbg-at-bolivian-private-university-cochabamba/events/316380312/
-  * Youtube: 
+  * Youtube: https://www.youtube.com/live/ihQKjDiaTGg?t=6900s
 
