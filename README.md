@@ -93,4 +93,10 @@ los data pipelines: hazlo más robusto**: Understand about what mean resilience 
   * Language: Spanish
   * Meetup: https://www.meetup.com/aws-sbg-at-bolivian-private-university-cochabamba/events/316380312/
   * Youtube: https://www.youtube.com/live/ihQKjDiaTGg?t=6900s
+* **(Perú) Galaxy Nube Lima Norte | Evento Virtual - AWS Lambda & DuckDB**: We will discuss AWS Lambda and how, when combined with DuckDB, it can be used to build lightweight data pipelines, as well as some considerations to keep in mind when developing with this type of stack.
+  * Presentation: `2026/AWS Lambda & DuckDB`
+  * Publish Date: 17 October 2026
+  * Language: Spanish
+  * Meetup: https://www.meetup.com/es-es/galaxia-nube-lima-norte/events/316955626/
+  * Youtube: 
 
